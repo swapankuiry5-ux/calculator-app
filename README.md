@@ -48,8 +48,7 @@ calculator-app/
 
 ## LINK TO INSTALL APK FILE
 
--: https://github.com/user-attachments/files/34676205/Calculator.zip
--: 
+https://github.com/user-attachments/files/34676205/Calculator.zip
 
 ## License
 
