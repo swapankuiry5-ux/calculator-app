@@ -46,6 +46,9 @@ calculator-app/
 └── .gitignore
 ```
 
+##LINK TO INSTALL APK FILE
+https://github.com/swapankuiry5-ux/calculator-app/commits/v1.0
+
 ## License
 
 MIT
