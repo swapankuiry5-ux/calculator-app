@@ -28,7 +28,7 @@ git init
 git add .
 git commit -m "Initial commit: calculator app"
 git branch -M main
-git remote add origin https://github.com/<your-username>/calculator-app.git
+git remote add origin https://github.com/swapankuiry5-ux/calculator-app.git
 git push -u origin main
 ```
 
